@@ -19,7 +19,7 @@ Obama was as i describe a inexperienced,islamofacists sympathizer, beta meta sor
 
  Furthermore if you're building any application and if you want to forecast this data then in that case you'll be need JSON file for this scrapped data and to facilitate this i've convert the scraped data into final.json file in a elegant manner and hence you need to make only API calls to get the data.
 
- There is a img directory which contains images as a proof.
+ There is a imges directory which contains images as a proof.
 
  Algorithm for this project is written as a sort of explaination after every line in .ipynb file.
 
