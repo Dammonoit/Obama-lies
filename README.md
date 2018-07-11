@@ -13,7 +13,8 @@
 
  ## **Follow me on:-** [![Twitter][1.1]][1] [![Facebook][1.2]][2]  [![Github][1.3]][3] [![Gitlab][1.4]][4]
  <br/>
-## **Description.**
+
+# **Description.**
 
  As Clint eastwood says in Dirty harry that "Opinions are like a##holes, everbody's got one."....so i gotta give me opinion.
 Obama was as i describe a inexperienced,islamofacists sympathizer, beta meta sort of guy like a Wolf in sheep's furr. He failed in Healthcare act, middle east, economics, imigration and was no less war criminal than Mr. Bush if we infer it according liberal logic.
