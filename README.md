@@ -32,7 +32,7 @@ Obama was as i describe a inexperienced,islamofacists sympathizer, beta meta sor
 
 
   ## **Fruitful resources.**
-`Link for blog:` : https://danfromsquirrelhill.wordpress.com/2013/08/15/obama-252/
-`Beautiful soup :` https://www.crummy.com/software/BeautifulSoup/bs4/doc/
-`Web scrapping :` https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/
-`Others :` https://www.dataquest.io/blog/web-scraping-tutorial-python/
+`Link for blog:` : https://danfromsquirrelhill.wordpress.com/2013/08/15/obama-252/ <br />
+`Beautiful soup :` https://www.crummy.com/software/BeautifulSoup/bs4/doc/   <br />
+`Web scrapping :` https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/ <br />
+`Others :` https://www.dataquest.io/blog/web-scraping-tutorial-python/   <br />
